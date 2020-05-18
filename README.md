@@ -5,8 +5,8 @@ Webscraping articles of https://www.abc.net.au/news/ with Python.
 
 Remarks:
 - The texts of the articles will be saved in news.txt
-- With the variable 'history' you can select how many links you want to check. Every link contains at most one news article and some are empty.
-- The code will be changed such that you can download all the ABC news articles including the most recent ones.
+- With the variable 'history' you can select how many links you want to check. Every link contains at most one news article and note that most links will be empty.
+- In the future: The code will be changed such that you can download all the ABC news articles including the most recent ones.
 
 First import the relevant packages. If you do not have them on your pc yet you can download them.
 ```python
